@@ -21,19 +21,21 @@ A fully functional To-Do application built using React and Next.js, with feature
 
 2. Navigate to the project directory:
 
-cd your-repository-name
+   ```bash
+   cd your-repository-name
 
 
 3. Install the dependencies:
 
-npm install
+   ```bash
+   npm install
 
 3. Run the application locally:
 
-npm run dev
+   ```bash
+   npm run dev
 
 Open your browser and visit http://localhost:3000 to view the app.
-
 
 
 
