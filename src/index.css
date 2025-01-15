@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  transition: background-color 0.3s ease;
+  font-family: "Inter", sans-serif;
+}
+
+.dark {
+  background-color: #1a202c;
+  color: #f7fafc;
+}
+
+.dark .bg-primary {
+  background-color: #2f855a;
+}
+
+.dark .text-primary {
+  color: #2f855a;
+}
+
+.hamburger {
+  transition: transform 0.3s ease;
+}
+.sidebar {
+  transition: transform 0.3s ease;
+}
+
+.sidebar.open {
+  transform: translateX(0);
+}
+
+.sidebar.closed {
+  transform: translateX(-250px);
+}
