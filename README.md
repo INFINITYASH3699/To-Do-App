@@ -41,31 +41,3 @@ Open your browser and visit http://localhost:3000 to view the app.
 
 Deployment
 This app is deployed on Vercel, and you can access it online. You can also follow the steps below to deploy it yourself:
-
-Push your project to GitHub.
-Sign in to Vercel.
-Import your GitHub repository to Vercel and deploy it.
-
-
-Technologies Used
-React
-Next.js
-Tailwind CSS
-Vercel (for deployment)
-
-
-Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Make changes and commit (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Open a pull request.
-
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Inspired by modern task management apps like Todoist.
-Built using React and Next.js for a fast and scalable web app.
-
